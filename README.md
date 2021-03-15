@@ -10,19 +10,16 @@ I love creating simple solutions to solve complex problems, and crafting beautfu
 ## *I am currently working on ...*
 
 ### Venus - Bug Tracker
-#### Technologies Used
 #### *Mongo, Express.js, React.js, Node.js*
 
 Venus is a forum based application for logging, tracking, and solving issues with developing software. Users can create accounts, and log issues in the form of Tickets, which are then sent to the developers, who can engage in a dialogue with the user to resolve the issue. 
 
 ### Rosa Woods - Professional Photohraphy Portfolio
-#### Technologies Used
 #### *Next.js, React.js, Node.js, Amazon Web Services*
 
 Award winning Stuff.co.nz photographer _Rosa Woods_ needs a place to put all of her photos, and a way for people to contact her for work! I'm refining a sleek design using Next.js that puts her beautiful images at the heart of the website. 
 
 ### Level Up Works - Education Software
-#### Technologies Used
 #### *React.js, Node.js, MySQL, React-Spring*
 
 Level Up Works is a school focussed on teaching kids to code! At the school, kids work through scratch projects focussed on teaching the fundamentals of coding in a fun way. This app streamlines that process! Making it easy for kids to see their progress, and giving them fun rewards along the way. It also provides teachers a portal through which to view their students and their progress, and assist with admin and management of tedious tasks. 
