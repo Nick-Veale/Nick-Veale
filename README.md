@@ -1,7 +1,5 @@
 
-# Hello there! I'm Nick Veale ...
-
-👋 <img src="https://user-images.githubusercontent.com/72718892/111159647-33ab8c00-85fe-11eb-9b92-7c94d9ad8e15.jpeg" width="200px" />🤟 
+# Hello there! 👋 I'm Nick Veale 🤟
 
 I am a full stack web developer based in the beautiful *Wellington New Zealand* 🇳🇿 I have skills in __React, Node.js, AWS, Python, MongoDB,__ and __MySQL__ to name a few, but the list is much longer and forever growing! 
 
