@@ -26,6 +26,7 @@ Level Up Works is a school focussed on teaching kids to code! At the school, kid
 
 ## *I am currently learning and very interested in ...*
 
+* Gatsby and other versatile React Frameworks
 * Angular / TypeScript
 * Machine Learning and Complex Data-Structures
 
