@@ -32,12 +32,7 @@ Level Up Works is a school focussed on teaching kids to code! At the school, kid
 
 ## *I am looking for work in ...*
 
-* Front End Web Development
-* Back End Web Development
-* Middle Web Development
-* Mid-Front Web Developement
-* Front-Side Web Development
-* Short back and sides Web Development
+* Web Development
 
 *and ...*
 
