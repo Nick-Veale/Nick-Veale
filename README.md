@@ -24,6 +24,21 @@ Venus is a forum based application for logging, tracking, and solving issues wit
 
 <hr/>
 
+### SVG Pokedex
+
+<span>
+  <img src="https://user-images.githubusercontent.com/72718892/112721552-4eb8bd00-8f69-11eb-9004-90b7caf46f6e.png" height="100px" />
+  <img src="https://user-images.githubusercontent.com/72718892/112721572-6a23c800-8f69-11eb-8dda-75b83a6553fa.png" height="100px" />
+  <img src="https://user-images.githubusercontent.com/72718892/112721606-98090c80-8f69-11eb-9ecb-bdea27d2ef39.png" height="100px" />
+  <img src="https://user-images.githubusercontent.com/72718892/112721593-8aec1d80-8f69-11eb-9078-9df6dd75e7f4.png" height="100px" />
+</span>
+
+#### Technologies Used: `['Next.js', 'React.js', 'React-Spring', 'SVG', 'REST API]`
+
+In order to learn the ins and outs of SVG, I decided to build a Pokedex by handcoding individual XML SVG elements. I got a bit carried away and made it consume the PokeAPI, so now it's a fully functional Pokedex. This was a fun afternoon's work!
+
+<hr/>
+
 ### Rosa Woods - Professional Photography Portfolio
 
 <span>
