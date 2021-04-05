@@ -70,9 +70,10 @@ Level Up Works is a school focussed on teaching kids to code! At the school, kid
 
 ## *I am currently learning and very interested in ...*
 
+* Scala / Scala.js and Play framework
+* Web-based audio manipulation through Howler.js
 * Gatsby and other versatile React Frameworks
-* Angular / TypeScript
-* Machine Learning and Complex Data-Structures
+* Machine Learning, Data-Structures, and Algorithms
 
 ## *I am looking for work in ...*
 
