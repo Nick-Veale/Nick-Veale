@@ -74,11 +74,3 @@ Level Up Works is a school focussed on teaching kids to code! At the school, kid
 * Web-based audio manipulation through Howler.js
 * Gatsby and other versatile React Frameworks
 * Machine Learning, Data-Structures, and Algorithms
-
-## *I am looking for work in ...*
-
-* Web Development
-
-*and ...*
-
-* Data Science
